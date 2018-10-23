@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://i.loli.net/2018/10/23/5bcf185568a22.png" width="300px" alt="Meting">
+<img src="https://i.loli.net/2018/10/23/5bcf185568a22.png" width="300px" alt="smms-cli">
 </p>
 
 <p align="center">
 <a href="https://i-meto.com"><img alt="Author" src="https://img.shields.io/badge/Author-METO-blue.svg?style=flat-square"/></a>
 <a href="https://www.npmjs.com/package/smms-cli"><img alt="Version" src="https://img.shields.io/npm/v/smms-cli.svg?style=flat-square"/></a>
-<a href="https://travis-ci.org/metowolf/MetingJS"><img alt="Travis" src="https://img.shields.io/travis/metowolf/smms-cli.svg?style=flat-square"></a>
+<a href="https://travis-ci.org/metowolf/smms-cli"><img alt="Travis" src="https://img.shields.io/travis/metowolf/smms-cli.svg?style=flat-square"></a>
 <img alt="License" src="https://img.shields.io/npm/l/smms-cli.svg?style=flat-square"/>
 </p>
 
