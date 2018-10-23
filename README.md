@@ -18,6 +18,8 @@
 npm install smms-cli -g
 ```
 
+[![asciicast](https://asciinema.org/a/nfv2tyJd9pMhSsuZ2UhITHNYl.png)](https://asciinema.org/a/nfv2tyJd9pMhSsuZ2UhITHNYl)
+
 ### Usage
 
 Upload a single image
