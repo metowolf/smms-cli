@@ -1,0 +1,23 @@
+{
+  "name": "smms-cli",
+  "version": "0.1.0",
+  "description": "Upload images to sm.ms",
+  "main": "lib/smms.js",
+  "repository": "https://github.com/metowolf/smms-cli.git",
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metowolf/smms-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metowolf/smms-cli/issues"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "scripts": {
+    "test": "cd test && node example.js"
+  }
+}
