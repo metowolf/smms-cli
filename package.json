@@ -1,6 +1,6 @@
 {
   "name": "smms-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Upload images to sm.ms",
   "main": "lib/smms.js",
   "repository": "https://github.com/metowolf/smms-cli.git",
