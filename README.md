@@ -10,7 +10,29 @@
 </p>
 
 
-## SMMS-cli
+## Command-line Usage
+
+### Installation
+
+```bash
+npm install smms-cli -g
+```
+
+### Usage
+
+Upload a single image
+
+```bash
+smms dog.png
+```
+
+Display smms-cli version:
+
+```bash
+smms --version
+```
+
+## Module Usage
 
 ### Installation
 
@@ -123,6 +145,8 @@ imgur.delete(hash)
     })
 ```
 
-## License
+## Author
 
-#### MIT
+**smms-cli** © [metowolf](https://github.com/metowolf), Released under the [MIT](./LICENSE) License.<br>
+
+> Blog [@meto](https://i-meto.com) · GitHub [@metowolf](https://github.com/metowolf) · Twitter [@metowolf](https://twitter.com/metowolf) · Telegram Channel [@metooooo](https://t.me/metooooo)
