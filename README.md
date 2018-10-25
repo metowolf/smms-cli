@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.loli.net/2018/10/23/5bcf185568a22.png" width="300px" alt="smms-cli">
+<img src="https://user-images.githubusercontent.com/2666735/47508037-eea82300-d8a5-11e8-94b0-7c3496f04184.png" width="300px" alt="smms-cli">
 </p>
 
 <p align="center">
@@ -26,6 +26,33 @@ Upload a single image
 
 ```bash
 smms dog.png
+```
+
+Upload multiple images ([globbing](http://en.wikipedia.org/wiki/Glob_(programming) supported)
+
+```bash
+smms "*.jpeg" dog.png
+smms ~/*.(jpg|png|gif)
+```
+
+Delete image remote
+
+```bash
+smms --delete https://i.loli.net/2018/10/25/5bd1ce38cdec0.png
+smms --delete OtE4waQ8erNikJ9
+```
+
+Show upload history
+
+```bash
+smms --list
+smms --history
+```
+
+Clear upload history
+
+```bash
+smms --clear
 ```
 
 Display smms-cli version:
