@@ -18,7 +18,7 @@
 npm install smms-cli -g
 ```
 
-[![asciicast](https://asciinema.org/a/nfv2tyJd9pMhSsuZ2UhITHNYl.png)](https://asciinema.org/a/nfv2tyJd9pMhSsuZ2UhITHNYl)
+[![asciicast](https://asciinema.org/a/TDoMBDihP9caz0gc3CCYJRdkS.png)](https://asciinema.org/a/TDoMBDihP9caz0gc3CCYJRdkS)
 
 ### Usage
 
