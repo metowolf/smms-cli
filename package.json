@@ -1,6 +1,6 @@
 {
   "name": "smms-cli",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Upload images to sm.ms",
   "main": "lib/smms.js",
   "repository": {
@@ -15,7 +15,10 @@
   "dependencies": {
     "cli-table3": "^0.5.1",
     "commander": "^2.19.0",
+    "conf": "^2.1.0",
+    "file-type": "^10.4.0",
     "glob": "^7.1.3",
+    "read-chunk": "^3.0.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   },
@@ -24,5 +27,10 @@
   },
   "bin": {
     "smms": "./lib/cli.js"
-  }
+  },
+  "keywords": [
+    "smms",
+    "upload",
+    "images"
+  ]
 }

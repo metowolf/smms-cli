@@ -17,6 +17,10 @@
 ```bash
 npm install smms-cli -g
 ```
+or
+```bash
+yarn global add smms-cli
+```
 
 [![asciicast](https://asciinema.org/a/TDoMBDihP9caz0gc3CCYJRdkS.png)](https://asciinema.org/a/TDoMBDihP9caz0gc3CCYJRdkS)
 
@@ -28,7 +32,7 @@ Upload a single image
 smms dog.png
 ```
 
-Upload multiple images ([globbing](http://en.wikipedia.org/wiki/Glob_(programming) supported)
+Upload multiple images ([globbing](https://www.npmjs.com/package/glob) supported)
 
 ```bash
 smms "*.jpeg" dog.png
@@ -67,6 +71,10 @@ smms --version
 
 ```bash
 npm install smms-cli
+```
+or
+```bash
+yarn add smms-cli
 ```
 
 ### API
